@@ -1,6 +1,5 @@
 ## Teaching Honey
-![Screenshot](../teaching-honey/public/teach-honey-ss.png "Screenshot")
-
+![Screenshot](../teaching-honey/public/teach-honey-ss.png?raw=true "Screenshot")
 
 ## How to run
 clone the repo and run the following commands in the root directory

@@ -37,7 +37,7 @@ export default function Home() {
         <a onClick={handleClickCircle}>Tracking Circle</a>
       </nav>
 
-      <TrackingCircle delay={12} />
+      {showCircle && <TrackingCircle delay={12} />}
 
       <main className={styles.main}>
         {showHoney && <Name adjectives={ADJECTIVES} />}
