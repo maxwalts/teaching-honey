@@ -1,0 +1,30 @@
+.SearchBar {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
+}
+.SearchBar input {
+  margin: 0.5em;
+}
+
+.FilterableProductTable {
+  display: flex;
+  aligh-items: center;
+  flex-direction: column;
+}
+
+.Table thead {
+  height: 2em;
+}
+
+.ProductAdder {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
+}
